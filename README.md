@@ -1,4 +1,4 @@
-![logo](https://github.com/panchanansahoo/PanchananSahoo/blob/main/7029229392%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Panchanan Sahoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" alt="coding" hight="400" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29lODB5dm9tbDg1b2Zkanc4MnJlY2ExY2J0OW93ZW53ODFicnRnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
