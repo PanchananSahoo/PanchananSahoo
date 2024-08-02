@@ -1,29 +1,28 @@
 <p id="top" align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="#" />
 </p>
 
-<h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Tushar!!</h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Panchanan Sahoo!!</h1>
 
-                                              T U S H A R   K E S A R W A N I ✨
+                                              P A N C H A N A N  S A H O O ✨
                           Web Developer | Open Source Enthusiast | Explorer | Competitive Programmer
 
 
-[![Twitter: tushar_104](https://img.shields.io/twitter/follow/tushar_104?style=social)](https://twitter.com/tushar_104)
-[![Linkedin: tushar104](https://img.shields.io/badge/-tushar104-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar104/)](https://www.linkedin.com/in/tushar104/)
-[![GitHub: TusharKesarwani](https://img.shields.io/github/followers/TusharKesarwani?label=follow&style=social)](https://github.com/TusharKesarwani/)
+[![Twitter: panchanansahoo](https://img.shields.io/twitter/follow/panchanansahoox?style=social)](https://x.com/panchanansahoox)
+[![Linkedin: panchanansahoo](https://img.shields.io/badge/-panchanansahoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panchanansahoo/)](https://www.linkedin.com/in/panchanansahoo/)
+[![GitHub: panchanansahoo](https://img.shields.io/github/followers/panchanansahoo?label=follow&style=social)](https://github.com/panchanansahoo/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
-- 🎓 I'm pursuing my Btech in Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur
-- 🔭 I'm currently working as an SDE Intern in AiProff
+- 🎓 I'm pursuing my Btech in Information Technology from Narula Institute of Technology, Kolkata
+- 🔭 I'm currently working as an SDE in my own Project
 - 👯 I’m looking to collaborate with - Open Source Projects
-- ⚒  Past Work - Project Admin at SSOC 2.0 (2023) and SWOC 3.0 (2023), Project Mentor at GSSoC 2023 and SSoC 2022, Contributor at GSSoC 2022, HacktoberFest (2021,2022)
-- 🔭 Worked as a Problem Setter at [iMocha](https://drive.google.com/file/d/1Fb3B-9tCRTP5kbmYGr7u73hsNgwRknvX/view) and as a Doubt Solver at [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
+- ⚒  Past Work - Build a learing website (Backbenchers note)
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
-- 📃 Resume - [Resume](https://drive.google.com/file/d/1sEsMJeUtuneAzD26g8XpOzQjhBk1RrFb/view?usp=sharing)
-- 💼 Portfolio - [Portfolio](https://portfolio-of-tushar.netlify.app/)
-- 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
+- 📃 Resume - [Resume](#)
+- 💼 Portfolio - [Portfolio](#)
+- 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/panchanansahoo/)  , [Instagram@Panchanansahoo](https://www.instagram.com/_priyo_0143) , [Linktree:@PanchananSahoo](https://www.linkedin.com/in/panchanansahoo/)
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
