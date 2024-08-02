@@ -62,20 +62,20 @@
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TusharKesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="TusharKesarwani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=panchanansaoo&label=Profile%20views&color=0e75b6&style=flat" alt="Panchanansahoo" /> </p>
 
  
 <h2 align="center">Statistics</h2>
 <div align="center">
-<a href="https://github.com/TusharKesarwani">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKesarwani&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="TusharKesarwani" />
+<a href="https://github.com/panchanansahoo">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchanansahoo&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="panchanansahoo" />
 <br/>
 <!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panchanansahoo&theme=2077" height="180em" alt="panchanansahoo" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panchanansahoo&theme=2077" height="180em" alt="panchanansahoo" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panchanansahoo&theme=2077" height="180em" alt="panchanansahoo" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panchanansahoo&theme=2077" height="180em" alt="panchanansahoo" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panchanansahoo&theme=2077" height="180em" alt="panchanansahoo" />
 </div>
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
@@ -84,16 +84,16 @@
 
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TusharKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  <img src="https://github-profile-trophy.vercel.app/?username=panchanansahoo&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 <summary>Github Stats</summary>
 
-[![tushar104's GitHub stats](https://stats.quine.sh/tushar104/github)](https://stats.quine.sh/tushar104/github)
+[![tushar104's GitHub stats](https://stats.quine.sh/panchanansahoo/github)](https://stats.quine.sh/panchanansahoo/github)
 
-<summary>:trophy: @tushar_104's Holopin board</summary>
+<summary>:trophy: @panchanansahoo's Holopin board</summary>
   <br/>
-  <a href="https://holopin.io/@tushar_104">
-    <img src="https://holopin.me/tushar_104">
+  <a href="https://holopin.io/@panchanansahoo">
+    <img src="https://holopin.me/panchanansahoo">
   </a>
 
 <h3>Check out my work:</h3>
