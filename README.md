@@ -70,7 +70,7 @@
 <a href="https://github.com/panchanansahoo">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchanansahoo&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="panchanansahoo" />
 <br/>
-<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" /> -->
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panchanansahoo&theme=2077" height="180em" alt="panchanansahoo" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panchanansahoo&theme=2077" height="180em" alt="panchanansahoo" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panchanansahoo&theme=2077" height="180em" alt="panchanansahoo" />
@@ -88,7 +88,7 @@
 
 <summary>Github Stats</summary>
 
-[![tushar104's GitHub stats](https://stats.quine.sh/panchanansahoo/github)](https://stats.quine.sh/panchanansahoo/github)
+[![panchanansahoo's GitHub stats](https://stats.quine.sh/panchanansahoo/github)](https://stats.quine.sh/panchanansahoo/github)
 
 <summary>:trophy: @panchanansahoo's Holopin board</summary>
   <br/>
@@ -107,86 +107,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/TusharKesarwani/Front-End-Projects"><b>Front-End Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=387&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=576&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/AI-Chatbot"><b>AI Chatbot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/kanban-board"><b>Kanban Board</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/Quiz-App"><b>Quiz App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/Headless-CMS"><b>Headless CMS</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/BIG-DATA"><b>Big-Data</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=7&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=6&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/TaskNinja"><b>Task Ninja</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/CodeChefMMMUTChapter"><b>CodeChefMMMUTChapter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=5&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=20&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/NSCC"><b>NSCC</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=2&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/ChatGPTPromptWithPython"><b>ChatGPTPromptWithPython</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=2&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=1&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/Portfolio_App"><b>Portfolio_App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/portfolio"><b>portfolio</b></a></td>
+      <td><a href="https://github.com/panchanansahoo/backbencher-note"><b>E-Learing website Projects</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=5&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/Calculator"><b>Calculator</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=4&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=1&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/Product_Launching_Website"><b>Product_Launching_Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=6&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=1&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/Solution-Challenge"><b>Solution-Challenge</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
-    </tr>
+    
   </tbody>
 </table>
 
 - 👨‍💻 All of my projects are available at my Portfolio website.
--Check out here  [https://portfolio-of-tushar.netlify.app/](https://portfolio-of-tushar.netlify.app/)
-<img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/master/portfolio.png">
+-Check out here  [https://backbencher-note.netlify.app/](https://backbencher-note.netlify.app/)
+<img src="https://github.com/panchanansahoo/backbencher-note/blob/master/backbencher_note.png">
 <br/>
 
 ---
@@ -220,17 +151,15 @@
 
 <br/>
 
-<!-- <summary>:chart_with_upwards_trend: Contribution Chart </summary> -->
-<!--    <br/> -->
-<!--    <img src="https://activity-graph.herokuapp.com/graph?username=TusharKesarwani&theme=xcode" alt="Contribution Graph" align="center" /> -->
+
 
 <h2>My Contribution Graph 💹 </h2>
 
 <p align="center">
-<!--   <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+
 </p>
 
-![TusharKesarwani's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TusharKesarwani&custom_title=Tushar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Panchanan Sahoo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=panchanansahoo&custom_title=Panchanan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
