@@ -27,23 +27,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/tushar104/">
+  <a href="https://www.linkedin.com/in/panchanansahoo/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/TusharKesarwani">
+  <a href="https://github.com/panchanansahoo">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
-  <a href="https://www.facebook.com/tusharkesarwani44">
+  <a href="https://www.facebook.com/profile.php?id=100042354981474">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
   </a>
  
-  <a href="https://www.instagram.com/tushar_.104">
+  <a href="https://www.instagram.com/_priyo_0143">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://twitter.com/tushar_104">
+  <a href="https://twitter.com/panchanansahoox">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 <p/>
@@ -51,12 +51,12 @@
 
 <h3 align="left">My CP Handles:</h3>
 <p align="left">
-  <a href="https://codeforces.com/profile/tushar_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar_104" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/tushar_104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_104" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/tusharkesarwani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharkesarwani1" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/tushar_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar_104" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/panchanansahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar_104" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/panchanan0143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_104" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/javasahooai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharkesarwani1" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/PanchananSahoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar_104" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@javasahooai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/panchanansahoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
 </p>
 <br/>
 
@@ -64,7 +64,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TusharKesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="TusharKesarwani" /> </p>
 
-
+ 
 <h2 align="center">Statistics</h2>
 <div align="center">
 <a href="https://github.com/TusharKesarwani">
