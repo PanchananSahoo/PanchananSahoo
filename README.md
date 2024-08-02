@@ -86,9 +86,6 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=panchanansahoo&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
-<summary>Github Stats</summary>
-
-[![panchanansahoo's GitHub stats](https://stats.quine.sh/panchanansahoo/github)](https://stats.quine.sh/panchanansahoo/github)
 
 <summary>:trophy: @panchanansahoo's Holopin board</summary>
   <br/>
