@@ -22,7 +22,7 @@
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
 - 📃 Resume - [Resume](#)
 - 💼 Portfolio - [Portfolio](#)
-- 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/panchanansahoo/)  , [Instagram@Panchanansahoo](https://www.instagram.com/_priyo_0143) , [Linktree:@PanchananSahoo](https://www.linkedin.com/in/panchanansahoo/)
+- 📫 How to reach me: [linkedin:@Panchanansahoo](https://www.linkedin.com/in/panchanansahoo/)  , [Instagram@Panchanansahoo](https://www.instagram.com/_priyo_0143) , [Linktree:@PanchananSahoo](https://www.linkedin.com/in/panchanansahoo/)
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
